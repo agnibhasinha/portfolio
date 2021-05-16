@@ -1,0 +1,162 @@
+
+body{
+    background-color: lightskyblue;
+    
+    font:white;
+}
+#home{
+    background-image: url("back.JPG");
+}
+.header{
+    color:white;
+    background-color:blueviolet;
+    text-align: center;
+
+}
+#nav ul{
+    padding:0;
+    margin:0;
+    list-style-type: none;
+    text-align:center;
+    background-color: green;
+
+}
+#nav li{
+    display:inline;
+    padding: 30px;
+    vertical-align: middle;
+   
+}
+#nav a{
+    text-decoration:none;
+    color:white;
+    background-color: green;
+    
+
+}
+#nav a:hover{
+    color:orange;
+    background-color: white;
+
+}
+#contact{
+    margin-left:auto;
+    margin-right:auto;
+}
+
+#contact a{
+    text-decoration:none;
+    color:white;
+    background-color: white;
+    color:black;
+    width: 100px;
+    
+    margin:25px;
+    
+
+}
+#contact a:hover{
+    color:orange;
+    background-color: grey;
+
+}
+.header2{
+    background-color: black;
+    color:white;
+    font-family: 'Times New Roman', Times, serif;
+}
+.imagec{
+    display:block;
+    margin-top:50px;
+    margin-left:auto;
+    margin-right:auto;
+    padding:3px;
+    border-width:1px;
+    border-style:solid;
+    border-color:  black;
+}
+.intro_para{
+    width:700px;
+    margin-left:auto;
+    margin-right:auto;
+    font-size:x-large;
+    color:white;
+    padding:20px;
+    background-color:black;
+    border-color:white;
+    border-style:solid;
+    border-width:2px;
+    border-radius:2mm;
+}
+.paragraph{
+    
+    margin-left:auto;
+    margin-right:auto;
+    font-size:larger;
+    color:white;
+    padding:20px;
+    background-color:black;
+    border-color:white;
+    border-style:solid;
+    border-width:2px;
+    border-radius:2mm;
+}
+.header2{
+    background-color: yellowgreen;
+
+    text-align: center;
+}
+#interests a{
+    display:inline;
+    padding:10px;
+    margin:10px;
+    width:30px;
+    list-style-type: none;
+    text-align:center;
+    background-color: white;
+    border-width: 5px;
+    border-style:solid;
+    border-color:black;
+
+}
+#interests a:hover{
+    background-color: grey;
+    color:orange;
+}
+.imageint{
+    display:block;
+    padding:0px;
+    width:100%;
+    height:400px;
+    margin-bottom:0px;
+
+}
+.quote{
+    display:block;
+    width:100%;
+    background-color: yellow;
+    font-family:cursive;
+    color:red;
+    text-align: center;
+    height:40px;
+    font-size: x-large;
+    font-weight:bolder;
+    margin-top:0px;
+}
+.contactbox{
+    display:inline;
+    width:50%;
+    background-color:white;
+    color: black;
+    text-align:center;
+    height:100px;
+    font-size:x-large;
+    text-align: center;
+    border-color:black;
+    border-width:5px;
+    border-style:solid;
+    padding-right:200px;
+    padding-top:30px;
+    padding-bottom:30px;
+    padding-left:100px;
+}
